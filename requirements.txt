@@ -1,0 +1,13 @@
+matplotlib
+natsort
+numpy
+open3d
+opencv_python
+pandas
+Pillow
+plyfile
+scikit_learn
+scipy
+setuptools
+tqdm
+ipykernel
